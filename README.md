@@ -68,4 +68,3 @@ Matkul	Basis Data
 <img width="1070" alt="hasil home" src="https://user-images.githubusercontent.com/101716660/175994057-6e876eba-ae69-4d42-891e-077695f3b780.png">
 
 
-image
