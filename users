@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Menampilkan Data Dari Database PHP </tittle>
+<style>
+table,tr,td {
+	border; 1px solid lightsteelblue;
+}
+thead {
+background-color; #ffb6c1;
+}
+</style>
+</head>
+<body>
+<h1 style>Klinik Maulana hasan</h1>
